@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accepted: false
+  mentor: false
+  mentee: false
+
+two:
+  accepted: false
+  mentor: false
+  mentee: false

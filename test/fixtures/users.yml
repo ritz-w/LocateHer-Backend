@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  age: 1.5
+  gender: MyString
+  avatar_link: MyString
+  password: MyString
+  location: MyString
+  personal_msg: MyText
+  skype: MyString
+  linkedin: MyString
+  job_title: MyString
+  years_exp: 1.5
+  industry: MyString
+  email: MyString
+  bme: false
+  lgbt: false
+  share_bme: false
+  share_lgbt: false
+  mentor: false
+  mentee: false
+
+two:
+  first_name: MyString
+  last_name: MyString
+  age: 1.5
+  gender: MyString
+  avatar_link: MyString
+  password: MyString
+  location: MyString
+  personal_msg: MyText
+  skype: MyString
+  linkedin: MyString
+  job_title: MyString
+  years_exp: 1.5
+  industry: MyString
+  email: MyString
+  bme: false
+  lgbt: false
+  share_bme: false
+  share_lgbt: false
+  mentor: false
+  mentee: false
