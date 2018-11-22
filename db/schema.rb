@@ -12,6 +12,9 @@
 
 ActiveRecord::Schema.define(version: 2018_11_18_124103) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "connections", force: :cascade do |t|
     t.boolean "accepted"
     t.boolean "mentor"
